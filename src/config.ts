@@ -158,8 +158,6 @@ export const config = {
         whatsapp: "https://wa.me/923185129320",
         github: "https://github.com/mohommod-umair",
         linkedin: "https://www.linkedin.com/in/mohomdumair/",
-        twitter: "https://x.com/mohommod_umair",
-        facebook: "https://www.facebook.com/",
         instagram: "https://www.instagram.com/mohomdumair",
         resume: "/CV.pdf"
     },
