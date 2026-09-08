@@ -145,6 +145,7 @@ This project is licensed under the MIT License.
 **Muhammad Umair**
 
 * GitHub: [https://github.com/mohommod-umair](https://github.com/mohommod-umair)
+* LinkedIn: [https://www.linkedin.com/in/mohomdumair/](https://www.linkedin.com/in/mohomdumair/)
 * Repository: [https://github.com/mohommod-umair/umair_dev](https://github.com/mohommod-umair/umair_dev)
 
 ---
