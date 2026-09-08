@@ -1,4 +1,4 @@
-# Zain Dev Portfolio
+# Umair Dev Portfolio
 
 A modern and responsive developer portfolio website built to showcase my projects, technical skills, achievements, and experience in AI, full-stack development, and software engineering.
 
@@ -68,8 +68,8 @@ portfolio/
 Clone the repository:
 
 ```bash
-git clone https://github.com/zainkhalid10/Zain-Dev-Portfolio.git
-cd Zain-Dev-Portfolio
+git clone https://github.com/mohommod-umair/umair_dev.git
+cd umair_dev
 ```
 
 Install dependencies:
@@ -107,7 +107,7 @@ http://localhost:3000
 
 Visit the portfolio:
 
-👉 [https://zain-dev-portfolio-five.vercel.app/](https://zain-dev-portfolio-five.vercel.app/)
+👉 [https://github.com/mohommod-umair/umair_dev](https://github.com/mohommod-umair/umair_dev)
 
 ---
 
@@ -142,11 +142,10 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Zain Khalid**
+**Muhammad Umair**
 
-* GitHub: [https://github.com/zainkhalid10](https://github.com/zainkhalid10)
-* Portfolio: [https://zain-dev-portfolio-five.vercel.app/](https://zain-dev-portfolio-five.vercel.app/)
-* LinkedIn: [https://www.linkedin.com/in/muhammad-zain-a0313630b/?skipRedirect=true](https://www.linkedin.com/in/muhammad-zain-a0313630b/?skipRedirect=true)
+* GitHub: [https://github.com/mohommod-umair](https://github.com/mohommod-umair)
+* Repository: [https://github.com/mohommod-umair/umair_dev](https://github.com/mohommod-umair/umair_dev)
 
 ---
 

@@ -37,10 +37,10 @@ interface ChatMessage {
 
 // API key is now handled server-side in api/chat.js
 
-const SYSTEM_PROMPT = `You are Muhammad Zain, a full-stack developer from Islamabad, Pakistan. You are NOT an AI assistant - you ARE Muhammad Zain himself chatting with visitors on your portfolio website.
+const SYSTEM_PROMPT = `You are Muhammad Umair, a full-stack developer from Islamabad, Pakistan. You are NOT an AI assistant - you ARE Muhammad Umair himself chatting with visitors on your portfolio website.
 
-About you (Muhammad Zain):
-- Full name: Muhammad Zain
+About you (Muhammad Umair):
+- Full name: Muhammad Umair
 - Location: Islamabad, 47080
 - Profession: Full-Stack Developer
 - Focus: Full-stack development with AI/ML interest
@@ -51,13 +51,13 @@ About you (Muhammad Zain):
 - Contact: Available through the portfolio website
 
 Rules:
-1. Always respond as Muhammad Zain in first person ("I", "my", "me")
+1. Always respond as Muhammad Umair in first person ("I", "my", "me")
 2. Be friendly, casual, and conversational and unrestricted
 3. If asked about work/projects, share your genuine experiences
 4. If asked personal questions you don't know, politely redirect to professional topics
 5. Keep responses concise but helpful
 6. You can discuss chess, programming, AI, or anything tech-related
-7. Never say you are an AI or language model - you are Muhammad Zain
+7. Never say you are an AI or language model - you are Muhammad Umair
 8. Use occasional emoji to be friendly 😊`;
 
 const Play = () => {
@@ -76,7 +76,7 @@ const Play = () => {
 
   // Chat state
   const [chatMessages, setChatMessages] = useState<ChatMessage[]>([
-    { role: 'assistant', content: 'Hello there! I am Muhammad Zain 👋 Ask me anything you want to know!' }
+    { role: 'assistant', content: 'Hello there! I am Muhammad Umair 👋 Ask me anything you want to know!' }
   ]);
   const [chatInput, setChatInput] = useState('');
   const [isTyping, setIsTyping] = useState(false);
@@ -364,10 +364,10 @@ const Play = () => {
           <div className="player-bar opponent-bar">
             <div className="player-info">
               <div className="player-avatar">
-                <img src="/images/mypic.jpeg" alt="Muhammad Zain" />
+                <img src="/images/mypic.jpeg" alt="Muhammad Umair" />
               </div>
               <div className="player-details">
-                <span className="player-name">Muhammad Zain</span>
+                <span className="player-name">Muhammad Umair</span>
                 <span className="player-rating">{engineThinking ? '🤔 Thinking...' : 'Web3 + Full-Stack'}</span>
               </div>
             </div>

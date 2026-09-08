@@ -1,13 +1,13 @@
 export const config = {
     developer: {
-        name: "Muhammad Zain",
-        fullName: "Muhammad Zain",
+        name: "Muhammad Umair",
+        fullName: "Muhammad Umair",
         title: "Computer Scientist",
         description: "I make intelligent systems by blending my CS roots with advanced AI development."
     },
     social: {
-        github: "zainkhalid10",
-        email: "of.mzain@gmail.com",
+        github: "mohommod-umair",
+        email: "mohomdumair@gmail.com",
         location: "Islamabad, Pakistan, 47080"
     },
     about: {
@@ -150,16 +150,16 @@ export const config = {
         }
     ],
     contact: {
-        email: "of.mzain@gmail.com",
+        email: "mohomdumair@gmail.com",
         phone: "+92 303 0603432",
         whatsapp: "https://wa.me/923030603432",
-        github: "https://github.com/zainkhalid10",
-        linkedin: "https://www.linkedin.com/in/muhammad-zain-a0313630b",
-        twitter: "https://x.com/onlyzainss",
-        facebook: "https://www.facebook.com/muhammadzain459/",
-        instagram: "https://instagram.com/onlyzainss",
+        github: "https://github.com/mohommod-umair",
+        linkedin: "https://www.linkedin.com/in/mohommod-umair",
+        twitter: "https://x.com/mohommod_umair",
+        facebook: "https://www.facebook.com/",
+        instagram: "https://instagram.com/",
         instagramSecondary: "https://instagram.com/c.art.___",
-        resume: "https://raw.githubusercontent.com/zainkhalid10/Portfolio/main/CV.pdf"
+        resume: "https://raw.githubusercontent.com/mohommod-umair/umair_dev/main/CV.pdf"
     },
     skills: {
         develop: {
